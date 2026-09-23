@@ -64,7 +64,7 @@ export const requestPinned: Transport = (url, address, signal) => new Promise((r
     lookup: (_host, _options, callback) => callback(null, address.address, address.family),
     autoSelectFamily: false,
     headers: {
-      'User-Agent': 'KiteWebReader/0.1 (+https://github.com/zhengqiuwan/kite-web-reader)',
+      'User-Agent': 'KiteWebReader/0.1 (+https://github.com/9qiuqiu/kite-web-reader)',
       Accept: 'text/html,application/xhtml+xml',
       'Accept-Encoding': 'identity',
     },
