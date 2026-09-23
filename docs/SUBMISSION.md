@@ -2,7 +2,7 @@
 
 **Direction:** `x402-service`
 
-**Repository:** https://github.com/9qiuqiu/kite-web-reader
+**Repository:** https://github.com/zhengqiuwan/kite-web-reader
 
 **Commit SHA:** use the latest published `git rev-parse HEAD` value.
 
@@ -35,6 +35,6 @@ Kite Web Reader 为 AI Agent 提供基于 Kite x402 的网页正文提取服务�
 
 ## 看板填写提醒
 
-仓库所有者是 `9qiuqiu`，请确认这也是你在活动看板绑定的 GitHub 账号。
+目标提交账号是 `zhengqiuwan`，请确认仓库转移已被该账号接受，且这也是你在活动看板绑定的 GitHub 账号。
 如果此前已登记其他仓库，应沿用已登记仓库。后续每周在同一仓库持续开发，
 提交新增 Commit SHA 与真实更新说明。

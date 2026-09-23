@@ -30,7 +30,7 @@ export function createApp(config: Config, dependencies: {
     name: 'Kite Web Reader', version: '0.1.0',
     description: 'Extract public HTML articles as text and Markdown, paid per request with x402.',
     endpoint: 'GET /v1/read?url=https%3A%2F%2Fexample.com%2Farticle',
-    discovery: '/.well-known/reader.json', documentation: 'https://github.com/9qiuqiu/kite-web-reader',
+    discovery: '/.well-known/reader.json', documentation: 'https://github.com/zhengqiuwan/kite-web-reader',
   }));
   app.get('/.well-known/reader.json', (_req, res) => res.json({
     name: 'kite-web-reader', x402Version: 2,
